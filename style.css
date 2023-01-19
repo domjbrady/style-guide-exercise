@@ -1,0 +1,101 @@
+/* page layout styles */
+
+
+h1 {
+    text-align: center;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+h2 {
+    text-align: center;
+}
+
+.sectionbody{
+    border: solid black 3px;
+}
+
+
+/* colors */
+
+.colordiv p {
+    display: inline-block;
+    text-align: center;
+    width: 30%;
+    height: auto;
+    margin: 0px;
+    }
+
+.colordiv p {
+    width: 32.5%;
+    margin: 0px;
+}
+
+#DG {
+    background-color: #006400;
+}
+#DOG {
+    background-color: #556B2F;
+}
+#DK {
+    background-color: #BDB76B;
+}
+#SB {
+    background-color: #8B4513;
+}
+#P {
+    background-color: #CD853F;
+}
+#PP {
+    background-color: #FFDAB9;
+}
+
+
+/* fonts */
+.fontsbody{
+    background-color: peachpuff;
+}
+
+.fonts div {
+    text-align: center;
+}
+
+.fonts h3 {
+    text-decoration: underline;
+}
+
+.crimson {
+    font-family: 'Crimson Text';
+}
+
+.cormorant {
+    font-family: 'Cormorant';
+}
+
+.faustina {
+    font-family: 'Faustina';
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.italic {
+    font-style: italic;
+}
+
+
+/* TEXT STYLES */
+
+
+
+.textstyle p {
+    text-align: center;
+    font-weight: bold;
+}
+
+ul {
+    text-align: justify;
+    list-style-type: disc;
+    
+}
